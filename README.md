@@ -26,4 +26,4 @@ public static class Constants
 ![alt text](https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/QRCodeiOS.gif)
 
 ### Demo
-<img src="https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/Demo.gif" height="480" width="288">
+<img src="https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/Demo.gif" height="500" width="249">
