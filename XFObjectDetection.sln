@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFObjectDetection", "XFObjectDetection\XFObjectDetection\XFObjectDetection.csproj", "{6DEDDFF9-E629-4B83-8A42-7EFBC1013BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XFObjectDetection", "XFObjectDetection\XFObjectDetection\XFObjectDetection.csproj", "{6DEDDFF9-E629-4B83-8A42-7EFBC1013BF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFObjectDetection.Android", "XFObjectDetection\XFObjectDetection.Android\XFObjectDetection.Android.csproj", "{CBED965B-E6A3-49A7-BEC3-3B457D388566}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFObjectDetection.iOS", "XFObjectDetection\XFObjectDetection.iOS\XFObjectDetection.iOS.csproj", "{CD6A00CB-FE24-4725-B893-B7EAB885D75F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFObjectDetection.UWP", "XFObjectDetection\XFObjectDetection.UWP\XFObjectDetection.UWP.csproj", "{65FA5A2E-0AD1-4452-B8F8-D13142796042}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA4B6D1B-62DC-42A9-ABD2-F20154AEA0F4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
