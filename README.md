@@ -19,11 +19,11 @@ public static class Constants
 
 ## Sample Application 
 
-### Demo
-![alt text](https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/Demo.gif)
-
-### Android - Download 
+### Android - Download: http://bit.ly/XFObjectectionAndroid
 ![alt text](https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/QrCodeAndroid.gif)
 
-### iOS - Download 
+### iOS - Download: http://bit.ly/XFObjectDetectioniOS
 ![alt text](https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/QRCodeiOS.gif)
+
+### Demo
+![alt text](https://github.com/mecvillarina/XFObjectDetection/blob/master/Assets/Demo.gif)
