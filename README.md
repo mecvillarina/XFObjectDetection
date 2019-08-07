@@ -10,10 +10,7 @@ You need to update the value of the API key in Common/Constants.cs file
 ```C#
 public static class Constants
 {
-	public const string FaceSubscriptionKey1 = "<FaceApiKey1>";
-	public const string FaceSubscriptionKey2 = "<FaceApiKey2>";
 	public const string ComputerVisionSubscriptionKey1 = "<ComputerVisionApiKey1>";
-	public const string ComputerVisionSubscriptionKey2 = "<ComputerVisionApiKey2>";
 }
 ```
 
